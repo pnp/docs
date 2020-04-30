@@ -283,7 +283,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   background-color: #7540ee;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e349810f334b16f_flowbase_wave.png");
+  background-image: url("../images/5ea49e060e349810f334b16f_flowbase_wave.png");
   background-position: 50% 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -471,7 +471,7 @@ a {
 .div-block-110 {
   height: 50%;
   background-color: #f5f7fd;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e34983b0734b178_hero_image.png");
+  background-image: url("../images/5ea49e060e34983b0734b178_hero_image.png");
   background-position: 0px 38px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -614,7 +614,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   background-color: #7540ee;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e349810f334b16f_flowbase_wave.png");
+  background-image: url("../images/5ea49e060e349810f334b16f_flowbase_wave.png");
   background-position: 50% 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1000,7 +1000,7 @@ a {
 .nav_details_block {
   height: 50%;
   background-color: #f5f7fd;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e34983b0734b178_hero_image.png");
+  background-image: url("../images/5ea49e060e34983b0734b178_hero_image.png");
   background-position: 0px 38px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1705,7 +1705,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   background-color: #0078d4;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e349810f334b16f_flowbase_wave.png");
+  background-image: url("../images/5ea49e060e349810f334b16f_flowbase_wave.png");
   background-position: 0px 140px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1838,7 +1838,7 @@ a {
   min-height: 260px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea5d33c808bdf982b93bc19_placeholder.png");
+  background-image: url("../images/5ea5d33c808bdf982b93bc19_placeholder.png");
   background-position: 0% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1907,7 +1907,7 @@ a {
   min-height: 260px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea5d33c808bdf982b93bc19_placeholder.png");
+  background-image: url("../images/5ea5d33c808bdf982b93bc19_placeholder.png");
   background-position: 0% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1994,7 +1994,7 @@ a {
   align-items: center;
   border-radius: 10px;
   background-color: #0078d4;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea667dec07d78ccaf40e860_parkers-place.png"), url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e349810f334b16f_flowbase_wave.png");
+  background-image: url("../images/5ea667dec07d78ccaf40e860_parkers-place.png"), url("../images/5ea49e060e349810f334b16f_flowbase_wave.png");
   background-position: 50% 50%, 0px 0px;
   background-size: cover, 300%;
   box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.03);
@@ -2091,7 +2091,7 @@ a {
   min-height: 260px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea5d33c808bdf982b93bc19_placeholder.png");
+  background-image: url("../images/5ea5d33c808bdf982b93bc19_placeholder.png");
   background-position: 0% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2103,7 +2103,7 @@ a {
   min-height: 260px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea60a0b7899698471d1958f_placeholder-2.png");
+  background-image: url("../images/5ea60a0b7899698471d1958f_placeholder-2.png");
   background-position: 0% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2111,69 +2111,90 @@ a {
 }
 
 .lnd_card_template._01 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea7408fe8ecfa4d3ff68308_card-image-01.png");
+  background-image: url("../images/5ea7408fe8ecfa4d3ff68308_card-image-01.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._02 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea74c0a563945f33b5493d4_card-image-02.png");
+  background-image: url("../images/5ea74c0a563945f33b5493d4_card-image-02.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._03 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea74c1d6abb333ff1462d9a_card-image-03.png");
+  background-image: url("../images/5ea74c1d6abb333ff1462d9a_card-image-03.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._04 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea74c30f7ff76ab6c741889_card-image-04.png");
+  background-image: url("../images/5ea74c30f7ff76ab6c741889_card-image-04.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._05 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea74d9aedce0327a262cd29_card-image-05.png");
+  background-image: url("../images/5ea74d9aedce0327a262cd29_card-image-05.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._06 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea74eac04cd8d0b29014b28_card-image-06.png");
+  background-image: url("../images/5ea74eac04cd8d0b29014b28_card-image-06.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._07 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea74f6288f5423ae38281d9_card-image-07.png");
+  background-image: url("../images/5ea74f6288f5423ae38281d9_card-image-07.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._08 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea7521605c91be3b706e4df_card-image-08.png");
+  background-image: url("../images/5ea7521605c91be3b706e4df_card-image-08.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._09 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea752aecbc02c39fea00911_card-image-09.png");
+  background-image: url("../images/5ea752aecbc02c39fea00911_card-image-09.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._10 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea753c25e12fffc27de38ef_card-image-10.png");
+  background-image: url("../images/5ea753c25e12fffc27de38ef_card-image-10.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._11 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea7543b46ce8c7d5b0a2986_card-image-11.png");
+  background-image: url("../images/5ea7543b46ce8c7d5b0a2986_card-image-11.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._12 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea754cd0f7f881cbd3660ee_card-image-12.png");
+  background-image: url("../images/5ea754cd0f7f881cbd3660ee_card-image-12.png");
   background-position: 100% 50%;
 }
 
 .lnd_card_template._13 {
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea755a546ce8ccec10a2fe4_card-image-13.png");
+  background-image: url("../images/5ea755a546ce8ccec10a2fe4_card-image-13.png");
   background-position: 100% 50%;
 }
+
+.lnd_card_template._14 {
+  background-image: url("../images/5ea755a546ce8ccec10a2fe4_card-image-14.png");
+  background-position: 100% 50%;
+}
+
+.lnd_card_template._15 {
+  background-image: url("../images/card-image-15.png");
+  background-position: 100% 50%;
+}
+
+.lnd_card_template._16 {
+  background-image: url("../images/card-image-16.png");
+  background-position: 100% 50%;
+}
+
+.lnd_card_template._17 {
+  background-image: url("../images/card-image-17.png");
+  background-position: 100% 50%;
+}
+
 
 .lnd_component_button {
   display: -webkit-box;
@@ -2276,7 +2297,7 @@ a {
   min-height: 260px;
   border-radius: 10px;
   background-color: #fff;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea5d33c808bdf982b93bc19_placeholder.png");
+  background-image: url("../images/5ea5d33c808bdf982b93bc19_placeholder.png");
   background-position: 0% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2810,8 +2831,8 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 24, 29, 0.5)), to(rgba(24, 24, 29, 0.5))), url("https://assets.website-files.com/5ea49850af483731893627d2/5ea5eba8808bdf5563949684_circafloor_pedestal_env_72_download_download.jpg");
-  background-image: linear-gradient(180deg, rgba(24, 24, 29, 0.5), rgba(24, 24, 29, 0.5)), url("https://assets.website-files.com/5ea49850af483731893627d2/5ea5eba8808bdf5563949684_circafloor_pedestal_env_72_download_download.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(24, 24, 29, 0.5)), to(rgba(24, 24, 29, 0.5))), url("../images/5ea5eba8808bdf5563949684_circafloor_pedestal_env_72_download_download.jpg");
+  background-image: linear-gradient(180deg, rgba(24, 24, 29, 0.5), rgba(24, 24, 29, 0.5)), url("../images/5ea5eba8808bdf5563949684_circafloor_pedestal_env_72_download_download.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   color: #fff;
@@ -2949,7 +2970,7 @@ a {
   right: 0%;
   bottom: 0%;
   margin-left: 67px;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea5eba8808bdf210394968a_kit-home-image.jpg");
+  background-image: url("../images/5ea5eba8808bdf210394968a_kit-home-image.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3338,7 +3359,7 @@ a {
   align-items: center;
   border-radius: 10px;
   background-color: #0078d4;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e349810f334b16f_flowbase_wave.png");
+  background-image: url("../images/5ea49e060e349810f334b16f_flowbase_wave.png");
   background-position: 0px 0px;
   background-size: 300%;
   box-shadow: 8px 8px 12px 0 rgba(0, 0, 0, 0.08);
@@ -3505,7 +3526,7 @@ a {
   align-items: center;
   border-radius: 10px;
   background-color: #0078d4;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea49e060e349810f334b16f_flowbase_wave.png");
+  background-image: url("../images/5ea49e060e349810f334b16f_flowbase_wave.png");
   background-position: 0px 0px;
   background-size: 300%;
   box-shadow: 8px 8px 12px 0 rgba(0, 0, 0, 0.08);
@@ -4536,7 +4557,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   background-color: transparent;
-  background-image: url("https://assets.website-files.com/5ea49850af483731893627d2/5ea7090de8e61d1bec8b459b_hero-wave.svg");
+  background-image: url("../images/5ea7090de8e61d1bec8b459b_hero-wave.svg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7360,25 +7381,25 @@ a {
 }
 @font-face {
   font-family: 'Segoeui';
-  src: url('https://assets.website-files.com/5ea49850af483731893627d2/5ea499f4f0e208b5e44ec8bc_segoeui-regular.woff') format('woff');
+  src: url('../fonts/segoeui-regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Segoeui';
-  src: url('https://assets.website-files.com/5ea49850af483731893627d2/5ea499f4808bdf49778cea00_segoeui-semibold.woff') format('woff');
+  src: url('../fonts/segoeui-semibold.woff') format('woff');
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
   font-family: 'Segoeui';
-  src: url('https://assets.website-files.com/5ea49850af483731893627d2/5ea499f4af48377856362e7a_segoeui-bold.woff') format('woff');
+  src: url('../fonts/segoeui-bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: 'Fullmdl2';
-  src: url('https://assets.website-files.com/5ea49850af483731893627d2/5ea5c5adc07d78e1833d0277_FullMDL2.woff') format('woff');
+  src: url('../fonts//FullMDL2.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
