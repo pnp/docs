@@ -2233,6 +2233,11 @@ a {
   background-position: 100% 50%;
 }
 
+.lnd_card_template._23 {
+  background-image: url("../images/card-image-23.png");
+  background-position: 100% 50%;
+}
+
 
 .lnd_component_button {
   display: -webkit-box;
