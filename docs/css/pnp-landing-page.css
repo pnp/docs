@@ -1389,6 +1389,7 @@ a {
   line-height: 42px;
   font-weight: 700;
   text-align: left;
+  max-width: 700px;
 }
 
 .lnd_h3.center {
