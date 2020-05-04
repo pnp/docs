@@ -2006,6 +2006,12 @@ a {
   box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.03);
 }
 
+.lnd_card_template_cta.youtube {
+  background-image: url("../images/5ea49e060e349810f334b16f_flowbase_wave.png");
+  background-position: 0px 0px;
+  background-size: 300%;
+}
+
 .lnd_container_02 {
   position: relative;
   display: -webkit-box;
